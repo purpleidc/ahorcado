@@ -43,6 +43,7 @@ int numeroFallos = 0;
                  case 4:    nombreImagen =  getClass().getResource("/imagenes/ahorcado_4.png");break;
                   case 5:    nombreImagen =  getClass().getResource("/imagenes/ahorcado_5.png");break; 
                   default:    nombreImagen =  getClass().getResource("/imagenes/ahorcado_fin.png");break;
+                  //albertoes guapo
                    
          }
                  
